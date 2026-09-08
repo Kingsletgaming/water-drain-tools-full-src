@@ -1,6 +1,6 @@
 # Water drain Tools
 
-## Setup
+## Info
 
 This Is Full SRC Of Kingslet's Water Drain Video Made By Kingslet Gaming. Minecraft 1.21.11 fabric
 
