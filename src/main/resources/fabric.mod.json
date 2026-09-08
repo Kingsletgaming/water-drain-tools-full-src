@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "water-drain-tools",
+	"version": "${version}",
+	"name": "Water drain Tools",
+	"description": "This Mod is just a custom mod made for Specially Kingslet's Video",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/water-drain-tools/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.king.drainhelper.WaterDrainTools"
+		],
+		"client": [
+			"com.king.drainhelper.client.WaterDrainToolsClient"
+		]
+	},
+	"mixins": [
+		"water-drain-tools.mixins.json",
+		{
+			"config": "water-drain-tools.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

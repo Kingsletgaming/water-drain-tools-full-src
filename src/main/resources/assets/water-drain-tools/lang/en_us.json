@@ -1,0 +1,10 @@
+{
+  "item.water-drain-tools.area_pickaxe": "Area Pickaxe",
+  "item.water-drain-tools.area_shovel": "Area Shovel",
+  "item.water-drain-tools.water_channel_tool": "Water Channel Tool",
+  "item.water-drain-tools.water_pump": "Water Pump",
+  "item.water-drain-tools.water_sensor": "Water Sensor Alarm",
+  "block.water-drain-tools.water_sensor": "Water Sensor Alarm",
+
+  "key.waterdrain.openmenu": "Open Area Tool Menu"
+}

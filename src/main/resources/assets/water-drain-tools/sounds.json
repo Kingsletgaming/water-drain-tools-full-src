@@ -1,0 +1,11 @@
+{
+  "tornado_siren": {
+    "subtitle": "sound.water-drain-tools.tornado_siren",
+    "sounds": [
+      {
+        "name": "water-drain-tools:tornado_siren",
+        "stream": true
+      }
+    ]
+  }
+}

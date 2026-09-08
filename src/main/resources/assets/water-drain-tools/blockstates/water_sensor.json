@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "water-drain-tools:block/water_sensor"
+    }
+  }
+}

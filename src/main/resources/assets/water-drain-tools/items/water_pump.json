@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "water-drain-tools:item/water_pump"
+  }
+}
