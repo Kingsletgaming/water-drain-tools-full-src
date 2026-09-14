@@ -7,7 +7,7 @@ This Is Full SRC Of Kingslet's Water Drain Video Made By Kingslet Gaming. Minecr
 Youtube: https://www.youtube.com/@Kingslet_Gaming
 Insta: https://www.instagram.com/kingslet_yt
 ## Setup
-To Download this mod go to build/lib/ and download water-drain-tools-1.0.0.jar
+To Download this mod go to [water-drain-tools-1.0.0.jar](https://github.com/Kingsletgaming/water-drain-tools-full-src/releases/tag/Mod) 
 
 Mod requires Fabric API
 
