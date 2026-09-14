@@ -9,7 +9,8 @@ Insta: https://www.instagram.com/kingslet_yt
 ## Setup
 To Download this mod go to [water-drain-tools-1.0.0.jar](https://github.com/Kingsletgaming/water-drain-tools-full-src/releases/tag/Mod) 
 
-Mod requires Fabric API
+Mod Version [1.21.11](https://fabricmc.net/)
+Mod requires [Fabric API](https://modrinth.com/mod/fabric-api)
 
 After apply the mod need to set the place where water spawn during event using /waterevent set pos1 / pos2 (have to set pos1 and pos2)
 to add shopkeeper just use /shopkeeper create
